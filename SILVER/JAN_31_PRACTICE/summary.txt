@@ -1,0 +1,1 @@
+Mainly focused on diff type of prefix-sum problems
